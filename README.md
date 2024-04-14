@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Alankrit77
 - 👀 I’m interested in Full-stack Development
-- 🌱 I’m currently learning At Crio.Do as full stack intern
+- 🌱 I’m was part of crio learning platform
+- i am working as a full-stack developer
 
 
 <!---
